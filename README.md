@@ -11,5 +11,5 @@ Previously I was using the PyRads Package
 https://github.com/danielkoll/PyRADS
 
 Usefull books
-pierrehumbert, 2010, principles of planetary climate
+pierrehumbert, 2010, principles of planetary climate  \
 https://brian-rose.github.io/ClimateLaboratoryBook/home.html

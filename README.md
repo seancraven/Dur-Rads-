@@ -4,7 +4,7 @@ The Tutorial Notebooks are designed to help you run/ learn from the code I have 
 The main notebook is the Spectral Absorbtion file which provides a brief summary of the theory encountered. 
 
 For Everything to work as intended you will need to download the absorbtion spectra for water up to the maxium line by line count, with the format outlined in the Longwave Tutorial notebook.   \
-This file should be renamed 'H2O.csv' and saved in Absorbtion Contiua 
+This file should be renamed 'H2O.csv' and saved in Absorbtion Continua
 
 isa.py is minorly changed  \
 from https://github.com/OZ1SEJ/International-Standard-Atmosphere/blob/master/isa.py
